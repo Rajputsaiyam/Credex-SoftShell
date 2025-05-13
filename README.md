@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<head
 #  SoftSell - Software License Resale Platform
 
 ![SoftSell Logo](src/assets/favicon.svg)
@@ -92,7 +92,6 @@ Sure! Here's the prompt you can add under a **"How to Run the Project"** section
 
 This project was created as a demonstration of frontend development skills in React, TypeScript, and modern CSS frameworks.
   
-=======
-# Credex-SoftShell
-SoftSell is a modern, responsive single-page marketing website for a fictional software license resale startup. The platform enables users to sell their unused or unwanted software licenses through a simple, streamlined process.
->>>>>>> b0c5bf62281bae5b0a2639ead7bbdfc391c6fafe
+======
+>>>>>>
+
