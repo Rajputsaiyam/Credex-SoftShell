@@ -51,6 +51,35 @@ Total development time: Approximately 24 hours
 - Interactivity and animations: 3 hours
 - Testing and refinement: 2 hours
 
+Sure! Here's the prompt you can add under a **"How to Run the Project"** section:
+
+---
+
+##  How to Run the Project
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+3. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+4. **Open in browser**
+
+   ```
+   http://localhost:5173
+   ```
+
+
 ## Future Enhancements
 
 - Backend integration for form submission
